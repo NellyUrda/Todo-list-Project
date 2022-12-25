@@ -1,6 +1,6 @@
 # Todo-list (with check buttons)
 This is a simple todo list desktop application using GUI.
-We can add by pressing "+ item" button, or remove items by checking the checkbuttons from the todo list app. All the changes of the list items will be saved in a text file. 
+We can add items, by pressing "+ item" button, or remove items, by checking the checkbuttons from the todo list. All the changes of the list items will be saved in a text file. 
 
 .py to .exe
 ![todo_list_1](https://user-images.githubusercontent.com/116946235/209475225-133638d0-2113-4398-8501-73a3c5a34494.png)
